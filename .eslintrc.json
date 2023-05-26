@@ -1,6 +1,6 @@
 {
     "env": {
-        "node": true,
+        "browser": true,
         "commonjs": true,
         "es2021": true
     },
@@ -11,6 +11,5 @@
         "ecmaVersion": "latest"
     },
     "rules": {
-        "linebreak-style": ["error", "windows"]
     }
 }
