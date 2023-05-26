@@ -1,0 +1,27 @@
+{
+  "name": "projetodesafio_semana4",
+  "version": "1.0.0",
+  "description": "Desafio da semana 4",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint **/*.js --ignore-pattern node_modules/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/washingtoncaraujo/ProjetoDesafio_Semana4.git"
+  },
+  "author": "Washington Carlos Araújo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/washingtoncaraujo/ProjetoDesafio_Semana4/issues"
+  },
+  "homepage": "https://github.com/washingtoncaraujo/ProjetoDesafio_Semana4#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.41.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
