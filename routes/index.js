@@ -7,49 +7,49 @@ router.get('/', function(req, res, next) {
   res.render('index', {title: 'Desafio Semana 4'});
 });
 
-/* GET home page. */
+/* GET rota 1 */
 router.get('/', function(req, res, next) {
   res.render('index', {title: 'Desafio Semana 4'});
 });
 
 
-/* GET home page. */
+/* POST rota 1 */
 router.get('/', function(req, res, next) {
   res.render('index', {title: 'Desafio Semana 4'});
 });
 
 
-/* GET home page. */
+/* PUT rota 1 */
 router.get('/', function(req, res, next) {
   res.render('index', {title: 'Desafio Semana 4'});
 });
 
 
-/* GET home page. */
+/* DELETE rota 1*/
 router.get('/', function(req, res, next) {
   res.render('index', {title: 'Desafio Semana 4'});
 });
 
 
-/* GET home page. */
+/* GET rota 2*/
 router.get('/', function(req, res, next) {
   res.render('index', {title: 'Desafio Semana 4'});
 });
 
 
-/* GET home page. */
+/* POST rota 2*/
 router.get('/', function(req, res, next) {
   res.render('index', {title: 'Desafio Semana 4'});
 });
 
 
-/* GET home page. */
+/* PUT rota 2 */
 router.get('/', function(req, res, next) {
   res.render('index', {title: 'Desafio Semana 4'});
 });
 
 
-/* GET home page. */
+/* DELETE rota 2 */
 router.get('/', function(req, res, next) {
   res.render('index', {title: 'Desafio Semana 4'});
 });
