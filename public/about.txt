@@ -1,0 +1,48 @@
+get: http://localhost:3335/src/about 
+  
+ ABOUT: 
+  
+ Semana 4 - Desafio Express 
+ Gustavo Vale 
+ Desenvolvimento Back-end II 
+ Agenda 
+ ● Qual é o desafio? 
+ ● O que deve ser entregue? 
+ ● Aprendizados com o desafio 
+ ● Quando deve ser entregue? 
+ 2 
+ Desenvolvimento Back-end II 
+ ● Crie uma aplicação com node.js que tenha: 
+ ○ A dependência do express instalado 
+ ○ A dependência do eslint instalado com as configurações passadas em sala de aula (slide 34) 
+ ○ A dependencia do express-generator instalado 
+ ○ Seja um repositório do GitHub 
+ ○ Um endpoint que responde a GET no caminho padrão “/” 
+ ○ Dois endpoints de sua escolha que respondem a GET, POST, PUT e DELETE 
+ ■ Por exemplo, “/clientes” e “/produtos” 
+ ○ Os endpoints devem responder com uma mensagem que explicitamente mostra: 1) o  
+ endpoint chamado (caminho), 2) o método que está fazendo a requisição e 3) Mostra as  
+ queries passadas na URL separando o que é chave e o que é valor 
+ Qual é o Desafio? 
+ 3 
+ Desenvolvimento Back-end II 
+ ● Um vídeo com duração de no máximo 3 minutos que você: 
+ ○ Mostre a aplicação no GitHub  
+ ○ Mostre a árvore de arquivos do projeto (similar a imagem do slide 43) 
+ ○ Mostre o arquivo do lint 
+ ○ Rode o comando para executar o lint 
+ ○ Rode o comando git status no terminal 
+ ○ Mostre o resultado dos endpoints (usando cURL ou o navegador)  
+ ○ OPCIONAL: Explique como a aplicação funciona enquanto mostra os demais pontos 
+ O que deve ser entregue? 
+ 4 
+ Desenvolvimento Back-end II 
+ ● Todo o desafio foi dado em aula 
+ ○ Seu real desafio é montar as peças do quebra-cabeça 
+ ● Talvez exista uma ordem melhor do que a que criamos aplicação em sala 
+ ● Com esse desafio testamos vários conceitos, habilidades e ferramentas  
+ vistos em sala de aula 
+ ○ Modularização (MVC), padrões de código, etc. 
+ ○ REST APIs e endpoints 
+ ○ Criação de um servidor 
+ ○ Git, GitHub, node.js, npm, express, etc
