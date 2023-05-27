@@ -7,4 +7,52 @@ router.get('/', function(req, res, next) {
   res.render('index', {title: 'Desafio Semana 4'});
 });
 
+/* GET home page. */
+router.get('/', function(req, res, next) {
+  res.render('index', {title: 'Desafio Semana 4'});
+});
+
+
+/* GET home page. */
+router.get('/', function(req, res, next) {
+  res.render('index', {title: 'Desafio Semana 4'});
+});
+
+
+/* GET home page. */
+router.get('/', function(req, res, next) {
+  res.render('index', {title: 'Desafio Semana 4'});
+});
+
+
+/* GET home page. */
+router.get('/', function(req, res, next) {
+  res.render('index', {title: 'Desafio Semana 4'});
+});
+
+
+/* GET home page. */
+router.get('/', function(req, res, next) {
+  res.render('index', {title: 'Desafio Semana 4'});
+});
+
+
+/* GET home page. */
+router.get('/', function(req, res, next) {
+  res.render('index', {title: 'Desafio Semana 4'});
+});
+
+
+/* GET home page. */
+router.get('/', function(req, res, next) {
+  res.render('index', {title: 'Desafio Semana 4'});
+});
+
+
+/* GET home page. */
+router.get('/', function(req, res, next) {
+  res.render('index', {title: 'Desafio Semana 4'});
+});
+
+
 module.exports = router;
